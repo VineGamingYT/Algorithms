@@ -10,7 +10,7 @@
     </li>
     <li>divideAndConquer.cpp
         <ul>
-            <li>Min-Max Algorithm<li>
+            <li>Min-Max Algorithm</li>
             <li>Binary Search</li>
         </ul>
     </li>

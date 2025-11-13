@@ -12,6 +12,6 @@
         <ul>
             <li>Min-Max Algorithm<li>
             <li>Binary Search</li>
-        <ul>
+        </ul>
     </li>
 </ol>
